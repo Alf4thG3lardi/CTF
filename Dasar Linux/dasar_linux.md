@@ -19,7 +19,7 @@ sudo  apt-get update
 ```
 lalu akan muncul output seperti ini, inputkan password linux kalian 
 
-![alt text](https://github.com/R1nto/CTF/blob/main/Dasar%20Linux/update.jpeg?raw=true)
+![terminal img](https://github.com/R1nto/Dasar_Linux/blob/main/Dasar%20Linux/update.jpeg)
 
 jika update selesai akan muncul output seperti ini
 dan kita masukkan command 
